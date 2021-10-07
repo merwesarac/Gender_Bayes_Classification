@@ -1,2 +1,2 @@
 # bayes_gender
-Classification social media users based on gender dimension
+Classification of social media users based on gender dimension
